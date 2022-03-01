@@ -142,5 +142,3 @@ let g:airline_symbols.whitespace = 'Ξ'
 
 " setting the background color:
 highlight Normal ctermfg=NONE ctermbg=NONE
-
-" i am adding some text here. "
