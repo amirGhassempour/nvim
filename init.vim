@@ -9,7 +9,7 @@ set number
 " PLUGIN MANAGER SETTINGS
 " VIM-PLUG, plugin manager.
 " Setting up the vim-plug as nvim plugin manager:
-" download plug.vim from 'https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim' and put it in autoload directory
+" download plug.vim from 'https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim' and put it in the following directory: $HOME/.local/share/nvim/site/autoload/plug.vim
 " use ':h auto-directories' to learn more about nvim default directories.
 " use ':PlugInstall' or ':PlugClean' after each time you modify the section
 " bellow.
